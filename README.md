@@ -1,1 +1,1 @@
-# ejercicios_JS
+# Micro Ejercicios JavaScript (Parte 1)

@@ -4,7 +4,7 @@
 let a = 3;
 let b = 5;
 // creo una función sumar.
-function sumar(a,b) {
+function sumar() {
 	return (a+b);
 }
 // imprimir el dato en el DOM
